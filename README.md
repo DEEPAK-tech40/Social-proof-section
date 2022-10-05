@@ -4,6 +4,9 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Overview
 
+![desktop-preview](https://user-images.githubusercontent.com/94350356/193983649-d69cecc0-1722-4818-b7b3-f2796fec8392.jpg)
+
+
 ### The challenge
 
 Users should be able to:
@@ -12,10 +15,19 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop View:
+
+![desktop-design](https://user-images.githubusercontent.com/94350356/193983701-6333c795-966f-4e6e-925a-70e32da14b61.jpg)
+
+Mobile View:
+
+![mobile-design](https://user-images.githubusercontent.com/94350356/193983728-78c845c1-ac6f-42af-956d-158277a98db8.jpg)
+
+
 ### Links
 
 - Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://deepak-tech40-socialproof-section.netlify.app/)
 
 ## My process
 
