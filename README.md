@@ -26,7 +26,7 @@ Mobile View:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-proof-section-so_jWlxkmb)
 - Live Site URL: [Live Site](https://deepak-tech40-socialproof-section.netlify.app/)
 
 ## My process
