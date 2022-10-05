@@ -66,14 +66,15 @@ main {
 }
 
 .des h1 {
-    margin: 2rem 10rem 1rem 0rem;
+    margin: 2rem 5rem 1rem 0rem;
     color: var(--cardBg);
     font-weight: 700;
-    font-size: 37px;
+    font-size: 46px;
 }
 
 .des p {
-    margin: 0rem 1rem 1rem 0rem;
+    margin: 1rem 1rem 1rem 0rem;
+    font-size: 18px;
     color: var(--paraBg);
     font-weight: 400;
     line-height: 1.5;
@@ -128,7 +129,6 @@ main {
     display: flex;
     gap: 35px;
     height: 15rem;
-    margin-top: -5rem;
 }
 
 .user-card {
@@ -194,7 +194,7 @@ footer {
     position: unset;
     color: var(--cardBg);
     font-size: 20px;
-    margin: -40px 0px 20px 0px;
+    margin: -20px 0px 20px 0px;
 
 }
 
